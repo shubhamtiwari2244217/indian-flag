@@ -8,6 +8,8 @@ if you are using linux you can install python by using this command
 sudo apt install python3
 
 for running this program you need to run this command
+
+
  python3 flag.py
  
  Thankyou very much.
