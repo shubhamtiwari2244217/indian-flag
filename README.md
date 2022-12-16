@@ -17,10 +17,20 @@ for running this program you need to run this command
  
  
  #Programmed by Shubham Tiwari
+ 
+ 
 #Github :- https://github.com/shubhamtiwari2244217
+
+
 #Twitter :- https://twitter.com/Shubham88395566
+
+
 #Email :- shubhamtiwari5100@gmail.com
+
+
 #instagram :- https://instagram.com/shubham_tiwari_das
+
+
 #Youtube :- https://youtube.com/@GaurNitaiGroup
 
 #Support me :- https://pages.razorpay.com/pl_HqEs5KZyzOT3RW/view
